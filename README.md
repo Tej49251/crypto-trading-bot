@@ -67,6 +67,9 @@ Navigate to the project directory in your file explorer and open the trading_bot
 
 You can now use the interface to place orders. All actions will be sent to your local backend server for processing.
 
+<img width="2879" height="1295" alt="image" src="https://github.com/user-attachments/assets/e984afcb-e936-4f13-aec7-c0b272fe6262" />
+
+
 Technologies Used
 Backend: Python, Flask, python-binance
 
