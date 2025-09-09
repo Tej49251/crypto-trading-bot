@@ -52,7 +52,6 @@ Python 3.7+
 
 A Binance Testnet account with API credentials.
 
-A Google AI Studio account to generate a Gemini API key.
 
 2. Clone the Repository
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
@@ -65,8 +64,6 @@ Create a file named .env in the root of the project directory and add your secre
 BINANCE_API_KEY=YOUR_TESTNET_API_KEY_HERE
 BINANCE_API_SECRET=YOUR_TESTNET_API_SECRET_HERE
 
-# Google Gemini API Key
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
 
 4. Install Dependencies
 Install all the required Python libraries using the requirements.txt file. It's highly recommended to do this within a virtual environment.
@@ -92,7 +89,7 @@ Navigate to the project directory in your file explorer and open the trading_bot
 You can now use the interface to place manual trades, get AI analysis, or start and stop the automated trading strategy.
 
 💻 Technologies Used
-Backend: Python, Flask, python-binance, google-generativeai, pandas, numpy
+Backend: Python, Flask, python-binance
 
 Frontend: HTML, Tailwind CSS, JavaScript
 
