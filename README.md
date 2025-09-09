@@ -23,7 +23,6 @@ Comprehensive Logging: Logs all backend activities, API calls, and strategy deci
 📸 Screenshot
 Here's a look at the main user interface, showing the manual trade panel, live data, and the AI analysis section.
 
-(How to add your screenshot: Take a screenshot of your running application, upload it to your GitHub repository, and then replace the placeholder URL below with the direct link to your image.)
 
 <img width="2879" height="1295" alt="Screenshot 2025-09-09 105042" src="https://github.com/user-attachments/assets/47e80c78-77c8-4a6e-a09c-cc6b1006beb9" />
 
